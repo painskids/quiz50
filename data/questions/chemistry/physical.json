@@ -1,0 +1,417 @@
+[
+    {
+        "code": "01CHEMISTRY0",
+        "question": "Which of the following is a physical change?",
+        "answer": [
+            "Melting of ice",
+            "Rusting",
+            "Combustion",
+            "Digestion"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY0",
+        "question": "SI unit of pressure is:",
+        "answer": [
+            "Pascal",
+            "Torr",
+            "Bar",
+            "Atmosphere"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY0",
+        "question": "What is the molar mass of water?",
+        "answer": [
+            "18",
+            "16",
+            "14",
+            "20"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY0",
+        "question": "Which law relates pressure and volume?",
+        "answer": [
+            "Boyle\u2019s law",
+            "Charles\u2019 law",
+            "Avogadro\u2019s law",
+            "Dalton\u2019s law"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY0",
+        "question": "Which gas law uses Kelvin temperature?",
+        "answer": [
+            "Charles\u2019 law",
+            "Boyle\u2019s law",
+            "Dalton\u2019s law",
+            "Graham\u2019s law"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY0",
+        "question": "Avogadro\u2019s number is approximately:",
+        "answer": [
+            "6.022\u00d710^23",
+            "3.00\u00d710^8",
+            "9.8",
+            "1.6\u00d710^-19"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY0",
+        "question": "Which of these is a state function?",
+        "answer": [
+            "Enthalpy",
+            "Work",
+            "Heat",
+            "Energy transfer"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY0",
+        "question": "Ideal gas equation is:",
+        "answer": [
+            "PV=nRT",
+            "P=nRT/V",
+            "V=nRT/P",
+            "All are same"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY0",
+        "question": "What is the oxidation number of oxygen in H2O?",
+        "answer": [
+            "-2",
+            "+2",
+            "0",
+            "-1"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY0",
+        "question": "Heat content of a system is:",
+        "answer": [
+            "Enthalpy",
+            "Entropy",
+            "Internal energy",
+            "Free energy"
+        ]
+    },
+    {
+        "code": "11CHEMISTRY0",
+        "question": "1 mole of ideal gas at STP occupies __ litres.",
+        "answer": 22
+    },
+    {
+        "code": "11CHEMISTRY0",
+        "question": "How many atoms are there in 1 mole of Na?",
+        "answer": 602
+    },
+    {
+        "code": "11CHEMISTRY0",
+        "question": "Molar mass of CO2 is __ g/mol.",
+        "answer": 44
+    },
+    {
+        "code": "11CHEMISTRY0",
+        "question": "If a system absorbs 100 J heat and does 20 J work, what is \u0394U?",
+        "answer": 80
+    },
+    {
+        "code": "11CHEMISTRY0",
+        "question": "Atomic number of oxygen is:",
+        "answer": 8
+    },
+    {
+        "code": "02CHEMISTRY0",
+        "question": "Which expression represents Gibbs free energy?",
+        "answer": [
+            "G = H \u2212 TS",
+            "G = TS \u2212 H",
+            "G = H + TS",
+            "G = T \u2212 HS"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY0",
+        "question": "Internal energy of an ideal gas depends only on:",
+        "answer": [
+            "Temperature",
+            "Pressure",
+            "Volume",
+            "Density"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY0",
+        "question": "Which of the following is endothermic?",
+        "answer": [
+            "Photosynthesis",
+            "Combustion",
+            "Freezing",
+            "Condensation"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY0",
+        "question": "Work done in isothermal expansion is:",
+        "answer": [
+            "Negative",
+            "Positive",
+            "Zero",
+            "Infinite"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY0",
+        "question": "Which law gives energy distribution among molecules?",
+        "answer": [
+            "Maxwell-Boltzmann",
+            "Boyle\u2019s",
+            "Dalton\u2019s",
+            "Avogadro\u2019s"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY0",
+        "question": "Entropy of a perfect crystal at 0 K is:",
+        "answer": [
+            "Zero",
+            "Maximum",
+            "Minimum",
+            "Infinite"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY0",
+        "question": "Which is not a colligative property?",
+        "answer": [
+            "Refractive index",
+            "Boiling point elevation",
+            "Freezing point depression",
+            "Osmotic pressure"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY0",
+        "question": "van\u2019t Hoff factor for NaCl is:",
+        "answer": [
+            "2",
+            "1",
+            "3",
+            "0"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY0",
+        "question": "Which of these follows first law of thermodynamics?",
+        "answer": [
+            "Energy conservation",
+            "Entropy increase",
+            "Energy destruction",
+            "Enthalpy loss"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY0",
+        "question": "Which variable remains constant in isothermal process?",
+        "answer": [
+            "Temperature",
+            "Pressure",
+            "Volume",
+            "Enthalpy"
+        ]
+    },
+    {
+        "code": "12CHEMISTRY0",
+        "question": "Calculate \u0394U if q = 120 J and w = 30 J (system does work).",
+        "answer": 90
+    },
+    {
+        "code": "12CHEMISTRY0",
+        "question": "What is the total number of moles in 44 g of CO2?",
+        "answer": 1
+    },
+    {
+        "code": "12CHEMISTRY0",
+        "question": "Boiling point of water in Kelvin is:",
+        "answer": 373
+    },
+    {
+        "code": "12CHEMISTRY0",
+        "question": "For 2 moles of gas at 273K, what is total internal energy U = nCvT, Cv = 3R/2. Take R=8",
+        "answer": 6552
+    },
+    {
+        "code": "12CHEMISTRY0",
+        "question": "If \u0394H = -100 kJ and \u0394S = -200 J/K, at 300 K, is reaction spontaneous? Use \u0394G = \u0394H - T\u0394S. If G < 0, return 1 else 0.",
+        "answer": 1
+    },
+    {
+        "code": "03CHEMISTRY0",
+        "question": "Which expression represents the first law of thermodynamics?",
+        "answer": [
+            "\u0394U = q \u2212 w",
+            "\u0394U = q + w",
+            "\u0394U = w \u2212 q",
+            "\u0394U = \u2212q \u2212 w"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY0",
+        "question": "Which of the following is intensive property?",
+        "answer": [
+            "Temperature",
+            "Mass",
+            "Volume",
+            "Heat capacity"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY0",
+        "question": "Which term defines randomness in a system?",
+        "answer": [
+            "Entropy",
+            "Enthalpy",
+            "Internal energy",
+            "Pressure"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY0",
+        "question": "Efficiency of Carnot engine depends on:",
+        "answer": [
+            "Temperatures of reservoirs",
+            "Work done",
+            "Volume ratio",
+            "Entropy"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY0",
+        "question": "Which is not correct for real gases?",
+        "answer": [
+            "They follow PV = nRT always",
+            "They deviate at high pressure",
+            "Intermolecular forces exist",
+            "They liquefy at low temp"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY0",
+        "question": "\u0394G is negative for:",
+        "answer": [
+            "Spontaneous process",
+            "Non-spontaneous",
+            "Equilibrium",
+            "Exothermic only"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY0",
+        "question": "At equilibrium, \u0394G equals:",
+        "answer": [
+            "0",
+            "Positive",
+            "Negative",
+            "Infinite"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY0",
+        "question": "Which factor does not affect rate of diffusion?",
+        "answer": [
+            "Color of gas",
+            "Temperature",
+            "Mass",
+            "Volume"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY0",
+        "question": "Which of the following is not an equation of state?",
+        "answer": [
+            "\u0394H = q at constant P",
+            "PV = nRT",
+            "\u0394U = q at constant V",
+            "T = P + V"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY0",
+        "question": "For a reversible process, total entropy change is:",
+        "answer": [
+            "Zero",
+            "Positive",
+            "Negative",
+            "Infinity"
+        ]
+    },
+    {
+        "code": "13CHEMISTRY0",
+        "question": "Calculate \u0394G for \u0394H = -150 kJ, \u0394S = -500 J/K at 298 K. Use \u0394G = \u0394H \u2212 T\u0394S. Round \u0394G in kJ.",
+        "answer": 0
+    },
+    {
+        "code": "13CHEMISTRY0",
+        "question": "If 5 mol of ideal gas expands isothermally at 300K from 10L to 20L, what is work done in J? Use W = nRT ln(Vf/Vi), R=8",
+        "answer": 8314
+    },
+    {
+        "code": "13CHEMISTRY0",
+        "question": "Entropy change when 2 moles of ideal gas expand reversibly and isothermally from V to 2V? \u0394S = nR ln(Vf/Vi). Take R=8.",
+        "answer": 11
+    },
+    {
+        "code": "13CHEMISTRY0",
+        "question": "What is the pressure of 2 mol ideal gas in 10L at 300K? Use PV=nRT, R=0.082. Round to nearest atm.",
+        "answer": 5
+    },
+    {
+        "code": "13CHEMISTRY0",
+        "question": "Calculate rms speed of oxygen molecule at 300 K. Use \u03bc = 32 g/mol, R=8, v = \u221a(3RT/M), M in kg/mol.",
+        "answer": 482
+    },
+    {
+        "code": "04CHEMISTRY0",
+        "question": "In Joule-Thomson experiment, inversion temperature is the temperature at which:",
+        "answer": [
+            "Cooling effect just stops",
+            "Gas becomes solid",
+            "Entropy is zero",
+            "\u0394G = 0"
+        ]
+    },
+    {
+        "code": "04CHEMISTRY0",
+        "question": "Which variable remains constant in adiabatic free expansion?",
+        "answer": [
+            "Internal energy",
+            "Pressure",
+            "Volume",
+            "Temperature"
+        ]
+    },
+    {
+        "code": "04CHEMISTRY0",
+        "question": "For Van der Waals gas, a and b represent:",
+        "answer": [
+            "Attraction and volume correction",
+            "Pressure and volume",
+            "Mass and volume",
+            "None"
+        ]
+    },
+    {
+        "code": "14CHEMISTRY0",
+        "question": "If Joule-Thomson coefficient is positive, what happens during expansion? Return 1 for cooling, 0 for heating.",
+        "answer": 1
+    },
+    {
+        "code": "14CHEMISTRY0",
+        "question": "A Carnot engine absorbs 500 J from hot reservoir and does 300 J work. What is heat rejected to cold reservoir?",
+        "answer": 200
+    }
+]

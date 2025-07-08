@@ -1,0 +1,417 @@
+[
+    {
+        "code": "01MATHS3",
+        "question": "Which quantity has both magnitude and direction?",
+        "answer": [
+            "Vector",
+            "Scalar",
+            "Magnitude",
+            "Dot"
+        ]
+    },
+    {
+        "code": "01MATHS3",
+        "question": "What is the dot product of two perpendicular vectors?",
+        "answer": [
+            "0",
+            "1",
+            "\u22121",
+            "Cannot say"
+        ]
+    },
+    {
+        "code": "01MATHS3",
+        "question": "If A = i + j, what is its magnitude?",
+        "answer": [
+            "\u221a2",
+            "2",
+            "1",
+            "\u221a3"
+        ]
+    },
+    {
+        "code": "01MATHS3",
+        "question": "The unit vector in the direction of i + j is?",
+        "answer": [
+            "(1/\u221a2)(i + j)",
+            "i + j",
+            "(1/2)(i + j)",
+            "\u221a2(i + j)"
+        ]
+    },
+    {
+        "code": "01MATHS3",
+        "question": "The direction cosines are related by:",
+        "answer": [
+            "l\u00b2 + m\u00b2 + n\u00b2 = 1",
+            "l + m + n = 1",
+            "lmn = 0",
+            "l\u00b2 + m\u00b2 \u2212 n\u00b2 = 0"
+        ]
+    },
+    {
+        "code": "01MATHS3",
+        "question": "If |A| = 5 and |B| = 0, then A \u00b7 B = ?",
+        "answer": [
+            "0",
+            "5",
+            "Undefined",
+            "1"
+        ]
+    },
+    {
+        "code": "01MATHS3",
+        "question": "What is the angle between i and j?",
+        "answer": [
+            "90\u00b0",
+            "0\u00b0",
+            "180\u00b0",
+            "45\u00b0"
+        ]
+    },
+    {
+        "code": "01MATHS3",
+        "question": "Cross product of two parallel vectors is:",
+        "answer": [
+            "0",
+            "1",
+            "\u221e",
+            "\u22121"
+        ]
+    },
+    {
+        "code": "01MATHS3",
+        "question": "Which operation results in a scalar?",
+        "answer": [
+            "Dot product",
+            "Cross product",
+            "Both",
+            "None"
+        ]
+    },
+    {
+        "code": "01MATHS3",
+        "question": "i \u00d7 j equals:",
+        "answer": [
+            "k",
+            "\u2212k",
+            "0",
+            "i"
+        ]
+    },
+    {
+        "code": "11MATHS3",
+        "question": "If A = 3i + 4j, then |A| = ?",
+        "answer": 5
+    },
+    {
+        "code": "11MATHS3",
+        "question": "Magnitude of i + j + k is \u221ax. Find x.",
+        "answer": 3
+    },
+    {
+        "code": "11MATHS3",
+        "question": "Dot product of i and j = ?",
+        "answer": 0
+    },
+    {
+        "code": "11MATHS3",
+        "question": "Angle between equal vectors is?",
+        "answer": 0
+    },
+    {
+        "code": "11MATHS3",
+        "question": "If A = 2i and B = 3i, then A\u00b7B = ?",
+        "answer": 6
+    },
+    {
+        "code": "02MATHS3",
+        "question": "A \u00b7 A equals:",
+        "answer": [
+            "|A|\u00b2",
+            "0",
+            "1",
+            "|A|"
+        ]
+    },
+    {
+        "code": "02MATHS3",
+        "question": "If \u03b8 = 0\u00b0, A\u00b7B = ?",
+        "answer": [
+            "|A||B|",
+            "0",
+            "\u2212|A||B|",
+            "1"
+        ]
+    },
+    {
+        "code": "02MATHS3",
+        "question": "Which of these is a vector?",
+        "answer": [
+            "Displacement",
+            "Mass",
+            "Work",
+            "Time"
+        ]
+    },
+    {
+        "code": "02MATHS3",
+        "question": "Result of i \u00d7 k is:",
+        "answer": [
+            "\u2212j",
+            "j",
+            "k",
+            "0"
+        ]
+    },
+    {
+        "code": "02MATHS3",
+        "question": "A unit vector has magnitude:",
+        "answer": [
+            "1",
+            "0",
+            "Any",
+            "Depends"
+        ]
+    },
+    {
+        "code": "02MATHS3",
+        "question": "i \u00d7 i equals:",
+        "answer": [
+            "0",
+            "i",
+            "1",
+            "k"
+        ]
+    },
+    {
+        "code": "02MATHS3",
+        "question": "Direction cosine of x-axis is:",
+        "answer": [
+            "1",
+            "0",
+            "\u22121",
+            "\u221a2"
+        ]
+    },
+    {
+        "code": "02MATHS3",
+        "question": "What is angle between opposite vectors?",
+        "answer": [
+            "180\u00b0",
+            "0\u00b0",
+            "90\u00b0",
+            "45\u00b0"
+        ]
+    },
+    {
+        "code": "02MATHS3",
+        "question": "The scalar triple product A\u00b7(B\u00d7C) gives:",
+        "answer": [
+            "Volume",
+            "Area",
+            "Length",
+            "Dot"
+        ]
+    },
+    {
+        "code": "02MATHS3",
+        "question": "A \u00b7 B = |A||B| cos\u03b8. What if \u03b8 = 90\u00b0?",
+        "answer": [
+            "0",
+            "1",
+            "\u22121",
+            "|A||B|"
+        ]
+    },
+    {
+        "code": "12MATHS3",
+        "question": "|i + j|\u00b2 = ?",
+        "answer": 2
+    },
+    {
+        "code": "12MATHS3",
+        "question": "A = 2i, B = 3j. A \u00b7 B = ?",
+        "answer": 0
+    },
+    {
+        "code": "12MATHS3",
+        "question": "If A = i \u2212 j, then |A|\u00b2 = ?",
+        "answer": 2
+    },
+    {
+        "code": "12MATHS3",
+        "question": "If |A| = 3, find A \u00b7 A",
+        "answer": 9
+    },
+    {
+        "code": "12MATHS3",
+        "question": "i + 2j has magnitude \u221ax. Find x.",
+        "answer": 5
+    },
+    {
+        "code": "03MATHS3",
+        "question": "Which vector has magnitude 1 and lies along x-axis?",
+        "answer": [
+            "i",
+            "j",
+            "k",
+            "i + j"
+        ]
+    },
+    {
+        "code": "03MATHS3",
+        "question": "Volume of parallelepiped A\u00b7(B\u00d7C) is 0 if vectors are:",
+        "answer": [
+            "Coplanar",
+            "Perpendicular",
+            "Parallel",
+            "Orthogonal"
+        ]
+    },
+    {
+        "code": "03MATHS3",
+        "question": "If A = i + j + k, then A \u00b7 i =",
+        "answer": [
+            "1",
+            "0",
+            "\u221a3",
+            "3"
+        ]
+    },
+    {
+        "code": "03MATHS3",
+        "question": "i \u00d7 (j \u00d7 k) = ?",
+        "answer": [
+            "j",
+            "\u2212i",
+            "\u2212k",
+            "k"
+        ]
+    },
+    {
+        "code": "03MATHS3",
+        "question": "If A \u22a5 B and |A| = 2, |B| = 3, then |A + B|\u00b2 = ?",
+        "answer": [
+            "13",
+            "6",
+            "12",
+            "5"
+        ]
+    },
+    {
+        "code": "03MATHS3",
+        "question": "Which of the following is not a vector?",
+        "answer": [
+            "Temperature",
+            "Velocity",
+            "Force",
+            "Acceleration"
+        ]
+    },
+    {
+        "code": "03MATHS3",
+        "question": "If A \u00d7 B = 0, then angle between A and B is?",
+        "answer": [
+            "0\u00b0 or 180\u00b0",
+            "90\u00b0",
+            "45\u00b0",
+            "Not defined"
+        ]
+    },
+    {
+        "code": "03MATHS3",
+        "question": "Cross product of i and \u2212i is:",
+        "answer": [
+            "0",
+            "2i",
+            "i",
+            "\u22122i"
+        ]
+    },
+    {
+        "code": "03MATHS3",
+        "question": "If A = i + 2j, then direction ratio along y-axis is?",
+        "answer": [
+            "2",
+            "1",
+            "3",
+            "0"
+        ]
+    },
+    {
+        "code": "03MATHS3",
+        "question": "Scalar product of i \u2212 j + k with itself is?",
+        "answer": [
+            "3",
+            "1",
+            "0",
+            "2"
+        ]
+    },
+    {
+        "code": "13MATHS3",
+        "question": "|i + j + k|\u00b2 = ?",
+        "answer": 3
+    },
+    {
+        "code": "13MATHS3",
+        "question": "If A = 3i + 4j, then A \u00b7 A = ?",
+        "answer": 25
+    },
+    {
+        "code": "13MATHS3",
+        "question": "Magnitude of 2i \u2212 j + 2k is \u221ax. Find x.",
+        "answer": 9
+    },
+    {
+        "code": "13MATHS3",
+        "question": "If A = i, B = j, angle between them is?",
+        "answer": 90
+    },
+    {
+        "code": "13MATHS3",
+        "question": "Unit vector of 4i is i/x. Find x.",
+        "answer": 4
+    },
+    {
+        "code": "04MATHS3",
+        "question": "If A, B, C are unit vectors, then max value of A\u00b7B + B\u00b7C + C\u00b7A is:",
+        "answer": [
+            "3/2",
+            "2",
+            "1",
+            "0"
+        ]
+    },
+    {
+        "code": "04MATHS3",
+        "question": "If |A| = |B| = |C| = 1 and A + B + C = 0, then A\u00b7B + B\u00b7C + C\u00b7A =",
+        "answer": [
+            "\u22123/2",
+            "\u22121",
+            "1",
+            "3"
+        ]
+    },
+    {
+        "code": "04MATHS3",
+        "question": "If A\u00b7B = 0 and A\u00d7B = 0, then A and B are:",
+        "answer": [
+            "Zero vectors",
+            "Perpendicular",
+            "Unit vectors",
+            "Parallel"
+        ]
+    },
+    {
+        "code": "14MATHS3",
+        "question": "|2i \u2212 2j + k|\u00b2 = ?",
+        "answer": 9
+    },
+    {
+        "code": "14MATHS3",
+        "question": "A = i + j, B = j + k. A \u00b7 B = ?",
+        "answer": 1
+    }
+]

@@ -1,0 +1,417 @@
+[
+    {
+        "code": "01PHYSICS2",
+        "question": "Who proposed the uncertainty principle?",
+        "answer": [
+            "Heisenberg",
+            "Einstein",
+            "Bohr",
+            "Planck"
+        ]
+    },
+    {
+        "code": "01PHYSICS2",
+        "question": "Which particle is considered massless?",
+        "answer": [
+            "Photon",
+            "Electron",
+            "Neutron",
+            "Proton"
+        ]
+    },
+    {
+        "code": "01PHYSICS2",
+        "question": "What is the unit of Planck\u2019s constant?",
+        "answer": [
+            "J\u00b7s",
+            "N\u00b7m",
+            "J/kg",
+            "eV"
+        ]
+    },
+    {
+        "code": "01PHYSICS2",
+        "question": "Which quantum number indicates the size of the orbital?",
+        "answer": [
+            "Principal",
+            "Azimuthal",
+            "Magnetic",
+            "Spin"
+        ]
+    },
+    {
+        "code": "01PHYSICS2",
+        "question": "What is the spin of an electron?",
+        "answer": [
+            "1/2",
+            "0",
+            "1",
+            "2"
+        ]
+    },
+    {
+        "code": "01PHYSICS2",
+        "question": "Which of these particles obey Fermi-Dirac statistics?",
+        "answer": [
+            "Electron",
+            "Photon",
+            "Gluon",
+            "Alpha particle"
+        ]
+    },
+    {
+        "code": "01PHYSICS2",
+        "question": "What is the full form of QED?",
+        "answer": [
+            "Quantum Electrodynamics",
+            "Quantum Electron Density",
+            "Quasi Energy Device",
+            "Quantum Event Dynamics"
+        ]
+    },
+    {
+        "code": "01PHYSICS2",
+        "question": "What principle states two electrons can't occupy same state?",
+        "answer": [
+            "Pauli exclusion",
+            "Heisenberg",
+            "Bohr model",
+            "Superposition"
+        ]
+    },
+    {
+        "code": "01PHYSICS2",
+        "question": "Which quantum number has values \u00b11/2?",
+        "answer": [
+            "Spin",
+            "Principal",
+            "Magnetic",
+            "Azimuthal"
+        ]
+    },
+    {
+        "code": "01PHYSICS2",
+        "question": "Which particle is its own antiparticle?",
+        "answer": [
+            "Photon",
+            "Electron",
+            "Neutron",
+            "Proton"
+        ]
+    },
+    {
+        "code": "11PHYSICS2",
+        "question": "How many quantum numbers are needed to describe an electron?",
+        "answer": 4
+    },
+    {
+        "code": "11PHYSICS2",
+        "question": "What is the value of the principal quantum number for K shell?",
+        "answer": 1
+    },
+    {
+        "code": "11PHYSICS2",
+        "question": "How many orbitals in p-subshell?",
+        "answer": 3
+    },
+    {
+        "code": "11PHYSICS2",
+        "question": "Maximum electrons in L shell?",
+        "answer": 8
+    },
+    {
+        "code": "11PHYSICS2",
+        "question": "Maximum electrons in d-subshell?",
+        "answer": 10
+    },
+    {
+        "code": "02PHYSICS2",
+        "question": "Who gave the wave equation in quantum mechanics?",
+        "answer": [
+            "Schr\u00f6dinger",
+            "Heisenberg",
+            "Bohr",
+            "Dirac"
+        ]
+    },
+    {
+        "code": "02PHYSICS2",
+        "question": "Planck\u2019s constant h has value close to:",
+        "answer": [
+            "6.63\u00d710^-34",
+            "3.00\u00d710^8",
+            "1.60\u00d710^-19",
+            "9.11\u00d710^-31"
+        ]
+    },
+    {
+        "code": "02PHYSICS2",
+        "question": "Which equation represents the uncertainty principle?",
+        "answer": [
+            "\u0394x\u00b7\u0394p \u2265 \u0127/2",
+            "E = mc\u00b2",
+            "F = ma",
+            "\u03bb = h/p"
+        ]
+    },
+    {
+        "code": "02PHYSICS2",
+        "question": "What is the de Broglie wavelength of a particle proportional to?",
+        "answer": [
+            "1/momentum",
+            "mass",
+            "velocity",
+            "energy"
+        ]
+    },
+    {
+        "code": "02PHYSICS2",
+        "question": "Which is not a quantum number?",
+        "answer": [
+            "Radial",
+            "Principal",
+            "Azimuthal",
+            "Spin"
+        ]
+    },
+    {
+        "code": "02PHYSICS2",
+        "question": "Which model explained hydrogen spectrum?",
+        "answer": [
+            "Bohr model",
+            "Rutherford",
+            "Thomson",
+            "Quantum field"
+        ]
+    },
+    {
+        "code": "02PHYSICS2",
+        "question": "What is the shape of s-orbital?",
+        "answer": [
+            "Spherical",
+            "Dumbbell",
+            "Clover",
+            "Circular"
+        ]
+    },
+    {
+        "code": "02PHYSICS2",
+        "question": "Which principle explains electron wave behavior?",
+        "answer": [
+            "de Broglie hypothesis",
+            "Bohr theory",
+            "Uncertainty",
+            "Pauli exclusion"
+        ]
+    },
+    {
+        "code": "02PHYSICS2",
+        "question": "Electrons are considered as:",
+        "answer": [
+            "Fermions",
+            "Bosons",
+            "Photons",
+            "Gluons"
+        ]
+    },
+    {
+        "code": "02PHYSICS2",
+        "question": "How many orbitals in f-subshell?",
+        "answer": [
+            "7",
+            "5",
+            "3",
+            "1"
+        ]
+    },
+    {
+        "code": "12PHYSICS2",
+        "question": "Azimuthal quantum number for d orbital is?",
+        "answer": 2
+    },
+    {
+        "code": "12PHYSICS2",
+        "question": "Number of nodal planes in p orbital?",
+        "answer": 1
+    },
+    {
+        "code": "12PHYSICS2",
+        "question": "Maximum electrons in an atom with n=3?",
+        "answer": 18
+    },
+    {
+        "code": "12PHYSICS2",
+        "question": "l can have how many values if n = 4?",
+        "answer": 4
+    },
+    {
+        "code": "12PHYSICS2",
+        "question": "Number of magnetic quantum numbers for l=3?",
+        "answer": 7
+    },
+    {
+        "code": "03PHYSICS2",
+        "question": "Which principle explains indistinguishability of identical particles?",
+        "answer": [
+            "Symmetrization",
+            "Pauli exclusion",
+            "Uncertainty",
+            "Superposition"
+        ]
+    },
+    {
+        "code": "03PHYSICS2",
+        "question": "Which wavefunction must be normalized?",
+        "answer": [
+            "\u03c8",
+            "\u03bb",
+            "E",
+            "m"
+        ]
+    },
+    {
+        "code": "03PHYSICS2",
+        "question": "Electron has dual nature according to:",
+        "answer": [
+            "de Broglie",
+            "Einstein",
+            "Rutherford",
+            "Dalton"
+        ]
+    },
+    {
+        "code": "03PHYSICS2",
+        "question": "Spin multiplicity for a single electron is:",
+        "answer": [
+            "2",
+            "1",
+            "0",
+            "4"
+        ]
+    },
+    {
+        "code": "03PHYSICS2",
+        "question": "What does the square of wavefunction give?",
+        "answer": [
+            "Probability density",
+            "Charge",
+            "Mass",
+            "Current"
+        ]
+    },
+    {
+        "code": "03PHYSICS2",
+        "question": "Value of magnetic quantum number for l=2?",
+        "answer": [
+            "\u22122 to +2",
+            "\u22121 to +1",
+            "0 to 3",
+            "\u22123 to +3"
+        ]
+    },
+    {
+        "code": "03PHYSICS2",
+        "question": "Energy levels in hydrogen atom vary as:",
+        "answer": [
+            "1/n\u00b2",
+            "n",
+            "n\u00b2",
+            "1/n"
+        ]
+    },
+    {
+        "code": "03PHYSICS2",
+        "question": "Spin quantum number affects:",
+        "answer": [
+            "Magnetic field",
+            "Velocity",
+            "Mass",
+            "Charge"
+        ]
+    },
+    {
+        "code": "03PHYSICS2",
+        "question": "What is value of h/2\u03c0?",
+        "answer": [
+            "\u0127",
+            "\u03b1",
+            "\u03b3",
+            "k"
+        ]
+    },
+    {
+        "code": "03PHYSICS2",
+        "question": "In Hydrogen, how many orbitals with n=2?",
+        "answer": [
+            "4",
+            "1",
+            "2",
+            "6"
+        ]
+    },
+    {
+        "code": "13PHYSICS2",
+        "question": "Value of l for p orbital?",
+        "answer": 1
+    },
+    {
+        "code": "13PHYSICS2",
+        "question": "For l = 2, number of orbitals = ?",
+        "answer": 5
+    },
+    {
+        "code": "13PHYSICS2",
+        "question": "Maximum electrons in f-subshell?",
+        "answer": 14
+    },
+    {
+        "code": "13PHYSICS2",
+        "question": "n=1 shell contains how many orbitals?",
+        "answer": 1
+    },
+    {
+        "code": "13PHYSICS2",
+        "question": "Number of nodes in 2s orbital?",
+        "answer": 1
+    },
+    {
+        "code": "04PHYSICS2",
+        "question": "Which equation gives energy levels of hydrogen atom?",
+        "answer": [
+            "En = \u221213.6/n\u00b2 eV",
+            "E = mc\u00b2",
+            "F = ma",
+            "\u03bb = h/mv"
+        ]
+    },
+    {
+        "code": "04PHYSICS2",
+        "question": "Which effect proves quantization of angular momentum?",
+        "answer": [
+            "Stern-Gerlach",
+            "Photoelectric",
+            "Compton",
+            "Davisson-Germer"
+        ]
+    },
+    {
+        "code": "04PHYSICS2",
+        "question": "What is the value of degeneracy for n=3?",
+        "answer": [
+            "9",
+            "4",
+            "6",
+            "3"
+        ]
+    },
+    {
+        "code": "14PHYSICS2",
+        "question": "Number of possible states for n=2, l=1?",
+        "answer": 6
+    },
+    {
+        "code": "14PHYSICS2",
+        "question": "For n=4, total number of orbitals = ?",
+        "answer": 16
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "code": "01PHYSICS0",
+        "question": "Which of the following is a scalar quantity?",
+        "answer": ["Temprature", "Velocity", "Displacement", "Force"]
+    },
+    {
+        "code": "01PHYSICS0",
+        "question": "What is the SI unit of Force?",
+        "answer": ["Newton", "Joule", "Watt", "Pascal"]
+    },
+    {
+        "code": "01PHYSICS0",
+        "question": "Which Newton's law explains the concept of inertia?",
+        "answer": ["First Law of Motion", "Second Law of Motion", "Third Law of Motion", "Law of Gravitation"]
+    },
+    {
+        "code": "01PHYSICS0",
+        "question": "What is the acceleration due to gravity on Earth?",
+        "answer": ["9.8 m/s\u00B2","10.8 m/s\u00B2", "8.8 m/s\u00B2", "8.3 m/s\u00B2"]
+    },
+    {
+        "code": "01PHYSICS0",
+        "question": "Which of these is not an unit of energy?",
+        "answer": ["Watt", "Joule", "Calories", "Electric Volt"]
+    },
+    {
+        "code": "01PHYSICS0",
+        "question": "Kinetic Energy of a body is directly propotional to?",
+        "answer": ["Square of Velocity", "Cube of Velocity", "Displacement", "Velocity only"]
+    },
+    {
+        "code": "01PHYSICS0",
+        "question": "The resistive force that opposes the motion of an object when in contact with a surface is",
+        "answer": ["Friction", "Viscous Force", "Centripetal force", "Normal force"]
+    },
+    {
+        "code": "01PHYSICS0",
+        "question": "When a body is under uniform circular motion, it's acceleration is",
+        "answer": ["Directed towards center", "Directed away from center", "Directed tangentially", "Zero"]
+    },
+    {
+        "code": "01PHYSICS0",
+        "question": "Which quantity is conserved in an elastic collision?",
+        "answer": ["Both Kinetic Energy and Momentum", "Kinetic Energy", "Momentum", "Torque"]
+    },
+    {
+        "code": "01PHYSICS0",
+        "question": "Hook's law is valid for",
+        "answer": ["Elastic deformation", "Liquids", "Plastic deformation", "All type of materials"]
+    },
+    {
+        "code": "11PHYSICS0",
+        "question": "A body moving with speed 10 m/s for 15 sec. What is the total distance traveled (in m)",
+        "answer": 150
+    },
+    {
+        "code": "11PHYSICS0",
+        "question": "A force of 40N is applied to a 20Kg mass. What is its acceleration (in m/s\u00B2)",
+        "answer": 2
+    },
+    {
+        "code": "11PHYSICS0",
+        "question": "A 5Kg mass is lifted to a height of 10m (g = 10 m/s\u00B2) What is the Potential energy (in J)",
+        "answer": 500
+    },
+    {
+        "code": "11PHYSICS0",
+        "question": "What is Momentum (in Kg·m/s) of a 2 kg object moving at 8 m/s?",
+        "answer": 16
+    },
+    {
+        "code": "11PHYSICS0",
+        "question": "A ball is dropped from a height and falls freely under gravity for 2sec. What is its final velocity?",
+        "answer": 20
+    },
+    {
+        "code": "02PHYSICS0",
+        "question": "What is the moment of inertia of a solid sphere about its diameter?",
+        "answer": ["(2/5)MR²", "(1/2)MR²", "(3/5)MR²", "(5/2)MR²"]
+    },
+    {
+        "code": "02PHYSICS0",
+        "question": "The dimensional formula of Power is",
+        "answer": ["ML²T⁻²", "ML²T⁻³", "MLT⁻²", "MLT⁻³"]
+    },
+    {
+        "code": "02PHYSICS0",
+        "question": "Which of the following is a conservative force?",
+        "answer": ["Gravitation", "Friction", "Viscous Froce", "Air resistance"]
+    },
+    {
+        "code": "02PHYSICS0",
+        "question": "The total mechanical energy in a conservative system:",
+        "answer": ["Remains constant", "Always increases", "Always decreases", "Becomes zero"]
+    },
+    {
+        "code": "02PHYSICS0",
+        "question": "The work done by centripetal force in circular motion is:",
+        "answer": ["Zero", "Maximum", "Equal to kinetic energy", "Equal to potential energy"]
+    },
+    {
+        "code": "02PHYSICS0",
+        "question": "Which law relates pressure and volume in an ideal gas at constant temperature?",
+        "answer": ["Boyle's Law", "Charles'Law", "Avogadro's Law", "Newton's Law"]
+    },
+    {
+        "code": "02PHYSICS0",
+        "question": "A spring has spring constant k. Work done in stretching it by x is",
+        "answer": ["(1/2)kx²", "kx²", "kx", "2kx"]
+    },
+    {
+        "code": "02PHYSICS0",
+        "question": "Two equal masses m collide head-on elastically. Final velocities are",
+        "answer": ["Exhanged", "Same as initial", "Zero", "Doubled"]
+    },
+    {
+        "code": "02PHYSICS0",
+        "question": "Escape Velocity from Easrth is approximately is",
+        "answer": ["11.2 Km/s", "9.8 Km/s", "7.9 Km/s", "15 Km/s"]
+    },
+    {
+        "code": "02PHYSICS0",
+        "question": "The SI unit of anuglar momentum is",
+        "answer": ["Kg·m²/s", "Kg·m/s", "Kg·m²/s²", "N·m"]
+    },
+    {
+        "code": "12PHYSICS0",
+        "question": "A car accelerates uniformly from rest to 30 m/s in 10 seconds. What is the acceleration (in m/s²)?",
+        "answer": 3
+    },
+    {
+        "code": "12PHYSICS0",
+        "question": "What's the centripetal accelartion (in m/s²) of an object moving in a circle of radius 2m at 4m/s",
+        "answer": 8
+    },
+    {
+        "code": "12PHYSICS0",
+        "question": "Work done in streching a spring by 0.2 m if k = 100 N/m",
+        "answer": 2
+    },
+    {
+        "code": "12PHYSICS0",
+        "question": "The Escape velocity for a planet of radius 6.4 x 10⁶ m and g 5 m/s² is v x 10³ m/s. Value of v is",
+        "answer": 8
+    },
+    {
+        "code": "12PHYSICS0",
+        "question": "What is the torque (in N·m) when a force of 50 N is applied at a perpendicular distance of 0.3 m?",
+        "answer": 15
+    },
+    {
+        "code": "03PHYSICS0",
+        "question": "A particle executes SHM. Its total energy is proportional to",
+        "answer": ["Square of Amplitude", "Amplitude", "Frequency", "Mass"]
+    },
+    {
+        "code": "03PHYSICS0",
+        "question": "The path of a projectile is",
+        "answer": ["Parabolic", "Circular", "Hyperbolic", "Elliptical"]
+    },
+    {
+        "code": "03PHYSICS0",
+        "question": "Rotational kinetic energy of a body is given by:",
+        "answer": ["(1/2)Iω²", "1/2)mv²", "Iω", "mgh"]
+    },
+    {
+        "code": "03PHYSICS0",
+        "question": "Which quantity has different values in different inertial frames?",
+        "answer": ["Momentum", "Time interval", "Mass", "Force"]
+    },
+    {
+        "code": "03PHYSICS0",
+        "question": "If the potential energy of a system is negative, the force is",
+        "answer": ["Attractive", "Zero", "Repulsive", "Perpendicular"]
+    },
+    {
+        "code": "03PHYSICS0",
+        "question": "Time period of a simple pendulum depends on",
+        "answer": ["Length and gravity", "Amplitude", "Mass", "Density"]
+    },
+    {
+        "code": "03PHYSICS0",
+        "question": "If a particle is under a central force, its angular momentum is",
+        "answer": ["Constant", "Increasing", "Decreasing", "Zero"]
+    },
+    {
+        "code": "03PHYSICS0",
+        "question": "Linear momentum is conserved only when",
+        "answer": ["No external force is applied", "Intermal energy is constant", "Kinetic Energy is zero", "Work done is maximum"]
+    },
+    {
+        "code": "03PHYSICS0",
+        "question": "A bullet embeds in a block. What kind of collision is it?",
+        "answer": ["Perfectly inelastic", "Inelastic", "Perfectly elastic", "Elastic"]
+    },
+    {
+        "code": "03PHYSICS0",
+        "question": "When two equal masses move with equal velocities but opposite directions and collide elastically, final momentum is:",
+        "answer": ["Zero", "Doubled", "Halved", "Infinity"]
+    },
+    {
+        "code": "13PHYSICS0",
+        "question": "A projectile is fired with speed 20 m/s at 30°. Time of flight is? (g=10m/s²)",
+        "answer": 2
+    },
+    {
+        "code": "13PHYSICS0",
+        "question": "Moment of inertia of a rod of length 2 m and mass 3 kg about its center",
+        "answer": 1
+    },
+    {
+        "code": "13PHYSICS0",
+        "question": "A pendulum of length 1m has period",
+        "answer": 2
+    },
+    {
+        "code": "13PHYSICS0",
+        "question": "A bullet of mass 0.01 kg strikes a block of 1 kg and sticks to it. Velocity of bullet = 100 m/s. Find final velocity of system (in m/s).",
+        "answer": 1
+    },
+    {
+        "code": "13PHYSICS0",
+        "question": "In SHM, if amplitude = 0.1 m, angular freq = 5 rad/s, The accelration is a x 10. Whats the value of a?",
+        "answer": 25
+    },
+    {
+        "code": "04PHYSICS0",
+        "question": "A ring of mass M and radius R rolls without slipping on a horizontal surface with speed v. Its total kinetic energy is",
+        "answer": ["(1/2)Mv²", "(1/4)Mv²", "Mv²", "Mv²/2 + (1/2)Iω²"]
+    },
+    {
+        "code": "04PHYSICS0",
+        "question": "A particle moves under a force F = -kx î + ky ĵ. The path is",
+        "answer": ["Elliptical", "Circular", "Straight line", "Spiral"]
+    },
+    {
+        "code": "04PHYSICS0",
+        "question": "A conical pendulum of string length L and angle θ to vertical has time period T. Then",
+        "answer": ["T = 2π√(L cos θ / g)", "T = 2π√(L/g)", "T = 2π√(L sin θ / g)", "T = 2π√(L / g cos θ)"]
+    },
+    {
+        "code": "14PHYSICS0",
+        "question": "A satellite orbits Earth at height R above surface. If Earth radius is R and g = 10 m/s², if its orbital speed is v x 10³. Whats rounded value to v?",
+        "answer": 6
+    },
+    {
+        "code": "14PHYSICS0",
+        "question": "Two blocks connected by a pulley system, one mass 2 kg hanging, the other 1 kg on table. Find acceleration of system (g = 10 m/s²).",
+        "answer": 3
+    }
+]

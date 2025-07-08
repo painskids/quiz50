@@ -1,0 +1,417 @@
+[
+    {
+        "code": "01GK0",
+        "question": "Which planet is known as the Red Planet?",
+        "answer": [
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Earth"
+        ]
+    },
+    {
+        "code": "01GK0",
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "answer": [
+            "William Shakespeare",
+            "Charles Dickens",
+            "Jane Austen",
+            "Mark Twain"
+        ]
+    },
+    {
+        "code": "01GK0",
+        "question": "How many continents are there on Earth?",
+        "answer": [
+            "7",
+            "5",
+            "6",
+            "8"
+        ]
+    },
+    {
+        "code": "01GK0",
+        "question": "What is the capital of France?",
+        "answer": [
+            "Paris",
+            "London",
+            "Rome",
+            "Berlin"
+        ]
+    },
+    {
+        "code": "01GK0",
+        "question": "Which ocean is the largest?",
+        "answer": [
+            "Pacific",
+            "Atlantic",
+            "Indian",
+            "Arctic"
+        ]
+    },
+    {
+        "code": "01GK0",
+        "question": "In which country is the Great Wall located?",
+        "answer": [
+            "China",
+            "India",
+            "Japan",
+            "Russia"
+        ]
+    },
+    {
+        "code": "01GK0",
+        "question": "What gas do plants absorb from the air?",
+        "answer": [
+            "Carbon dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+        ]
+    },
+    {
+        "code": "01GK0",
+        "question": "Which is the fastest land animal?",
+        "answer": [
+            "Cheetah",
+            "Lion",
+            "Horse",
+            "Tiger"
+        ]
+    },
+    {
+        "code": "01GK0",
+        "question": "What is the boiling point of water in Celsius?",
+        "answer": [
+            "100",
+            "90",
+            "80",
+            "110"
+        ]
+    },
+    {
+        "code": "01GK0",
+        "question": "How many days are there in a leap year?",
+        "answer": [
+            "366",
+            "365",
+            "360",
+            "364"
+        ]
+    },
+    {
+        "code": "11GK0",
+        "question": "How many states are there in the USA?",
+        "answer": 50
+    },
+    {
+        "code": "11GK0",
+        "question": "How many players in a football (soccer) team?",
+        "answer": 11
+    },
+    {
+        "code": "11GK0",
+        "question": "How many planets are in our solar system?",
+        "answer": 8
+    },
+    {
+        "code": "11GK0",
+        "question": "How many minutes in an hour?",
+        "answer": 60
+    },
+    {
+        "code": "11GK0",
+        "question": "How many bones are in the adult human body?",
+        "answer": 206
+    },
+    {
+        "code": "02GK0",
+        "question": "Which country has the most population?",
+        "answer": [
+            "India",
+            "China",
+            "USA",
+            "Indonesia"
+        ]
+    },
+    {
+        "code": "02GK0",
+        "question": "What is the currency of Japan?",
+        "answer": [
+            "Yen",
+            "Won",
+            "Dollar",
+            "Rupee"
+        ]
+    },
+    {
+        "code": "02GK0",
+        "question": "What language has the most native speakers?",
+        "answer": [
+            "Mandarin Chinese",
+            "English",
+            "Hindi",
+            "Spanish"
+        ]
+    },
+    {
+        "code": "02GK0",
+        "question": "What is the largest desert in the world?",
+        "answer": [
+            "Antarctica",
+            "Sahara",
+            "Gobi",
+            "Kalahari"
+        ]
+    },
+    {
+        "code": "02GK0",
+        "question": "Who discovered gravity?",
+        "answer": [
+            "Isaac Newton",
+            "Galileo",
+            "Einstein",
+            "Faraday"
+        ]
+    },
+    {
+        "code": "02GK0",
+        "question": "What is the smallest country in the world?",
+        "answer": [
+            "Vatican City",
+            "Monaco",
+            "Nauru",
+            "San Marino"
+        ]
+    },
+    {
+        "code": "02GK0",
+        "question": "What year did World War II end?",
+        "answer": [
+            "1945",
+            "1939",
+            "1918",
+            "1950"
+        ]
+    },
+    {
+        "code": "02GK0",
+        "question": "Which continent has the most countries?",
+        "answer": [
+            "Africa",
+            "Asia",
+            "Europe",
+            "South America"
+        ]
+    },
+    {
+        "code": "02GK0",
+        "question": "What is the longest river in the world?",
+        "answer": [
+            "Nile",
+            "Amazon",
+            "Yangtze",
+            "Mississippi"
+        ]
+    },
+    {
+        "code": "02GK0",
+        "question": "Who invented the light bulb?",
+        "answer": [
+            "Thomas Edison",
+            "Tesla",
+            "Newton",
+            "Einstein"
+        ]
+    },
+    {
+        "code": "12GK0",
+        "question": "How many countries are in the European Union?",
+        "answer": 27
+    },
+    {
+        "code": "12GK0",
+        "question": "How many hearts does an octopus have?",
+        "answer": 3
+    },
+    {
+        "code": "12GK0",
+        "question": "How many elements are in the periodic table?",
+        "answer": 118
+    },
+    {
+        "code": "12GK0",
+        "question": "How many rings are on the Olympic flag?",
+        "answer": 5
+    },
+    {
+        "code": "12GK0",
+        "question": "How many legs does a spider have?",
+        "answer": 8
+    },
+    {
+        "code": "03GK0",
+        "question": "Which country has the most time zones?",
+        "answer": [
+            "France",
+            "Russia",
+            "USA",
+            "China"
+        ]
+    },
+    {
+        "code": "03GK0",
+        "question": "What is the capital of Kazakhstan?",
+        "answer": [
+            "Astana",
+            "Almaty",
+            "Tashkent",
+            "Bishkek"
+        ]
+    },
+    {
+        "code": "03GK0",
+        "question": "Which element has the highest melting point?",
+        "answer": [
+            "Tungsten",
+            "Iron",
+            "Carbon",
+            "Gold"
+        ]
+    },
+    {
+        "code": "03GK0",
+        "question": "Which country first reached the Moon?",
+        "answer": [
+            "USA",
+            "Russia",
+            "India",
+            "China"
+        ]
+    },
+    {
+        "code": "03GK0",
+        "question": "What is the national animal of Australia?",
+        "answer": [
+            "Kangaroo",
+            "Koala",
+            "Emu",
+            "Dingo"
+        ]
+    },
+    {
+        "code": "03GK0",
+        "question": "What is the second tallest mountain in the world?",
+        "answer": [
+            "K2",
+            "Everest",
+            "Kangchenjunga",
+            "Makalu"
+        ]
+    },
+    {
+        "code": "03GK0",
+        "question": "Which organ in the body uses the most energy?",
+        "answer": [
+            "Brain",
+            "Liver",
+            "Heart",
+            "Kidney"
+        ]
+    },
+    {
+        "code": "03GK0",
+        "question": "Which bird is the fastest flyer?",
+        "answer": [
+            "Peregrine Falcon",
+            "Eagle",
+            "Swan",
+            "Hawk"
+        ]
+    },
+    {
+        "code": "03GK0",
+        "question": "Who painted the Sistine Chapel?",
+        "answer": [
+            "Michelangelo",
+            "Da Vinci",
+            "Raphael",
+            "Donatello"
+        ]
+    },
+    {
+        "code": "03GK0",
+        "question": "How many moons does Jupiter have (2024)?",
+        "answer": [
+            "95",
+            "79",
+            "67",
+            "88"
+        ]
+    },
+    {
+        "code": "13GK0",
+        "question": "How many stripes are there on the US flag?",
+        "answer": 13
+    },
+    {
+        "code": "13GK0",
+        "question": "How many seconds in an hour?",
+        "answer": 3600
+    },
+    {
+        "code": "13GK0",
+        "question": "How many chromosomes in human cells?",
+        "answer": 46
+    },
+    {
+        "code": "13GK0",
+        "question": "How many stars on the EU flag?",
+        "answer": 12
+    },
+    {
+        "code": "13GK0",
+        "question": "How many players in a baseball team on field?",
+        "answer": 9
+    },
+    {
+        "code": "04GK0",
+        "question": "Which country has won the most Nobel Prizes?",
+        "answer": [
+            "USA",
+            "UK",
+            "Germany",
+            "France"
+        ]
+    },
+    {
+        "code": "04GK0",
+        "question": "What year was the UN formed?",
+        "answer": [
+            "1945",
+            "1919",
+            "1939",
+            "1951"
+        ]
+    },
+    {
+        "code": "04GK0",
+        "question": "What is the name of the first artificial satellite?",
+        "answer": [
+            "Sputnik 1",
+            "Apollo 11",
+            "Explorer",
+            "Aryabhata"
+        ]
+    },
+    {
+        "code": "14GK0",
+        "question": "How many member states in the UN?",
+        "answer": 193
+    },
+    {
+        "code": "14GK0",
+        "question": "How many symphonies did Beethoven compose?",
+        "answer": 9
+    }
+]

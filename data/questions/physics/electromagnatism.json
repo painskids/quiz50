@@ -1,0 +1,252 @@
+[
+    {
+        "code": "01PHYSICS1",
+        "question": "What is the SI unit of electric current?",
+        "answer": ["Ampere", "Coulomb", "Volt", "Ohm"]
+    },
+    {
+        "code": "01PHYSICS1",
+        "question": "What happens to the magnetic field inside a solenoid when current increases?",
+        "answer": ["Increases", "Decreases", "Remains same", "Becomes zero"]
+    },
+    {
+        "code": "01PHYSICS1",
+        "question": "Which particle experiences a force in a magnetic field?",
+        "answer": ["Moving charge", "Stationary neutron", "Stationary proton", "Electron at rest"]
+    },
+    {
+        "code": "01PHYSICS1",
+        "question": "What is the direction of magnetic field lines around a current-carrying wire?",
+        "answer": ["Circular", "Straight", "Elliptical", "Radial"]
+    },
+    {
+        "code": "01PHYSICS1",
+        "question": "What type of magnet is used in electric bells?",
+        "answer": ["Electromagnet", "Bar magnet", "Horseshoe magnet", "Permanent magnet"]
+    },
+    {
+        "code": "01PHYSICS1",
+        "question": "Which rule is used to determine the direction of magnetic field due to current?",
+        "answer": ["Right-hand thumb rule", "Fleming's left hand rule", "Fleming's right hand rule", "Lenz's law"]
+    },
+    {
+        "code": "01PHYSICS1",
+        "question":  "What does a galvanometer measure?",
+        "answer": ["Current", "Voltage", "Power", "Resistance"]
+    },
+    {
+        "code": "01PHYSICS1",
+        "question": "Magnetic field strength in the center of a circular loop is proportional to:",
+        "answer": ["Current", "Radius", "Length", "Time"]
+    },
+    {
+        "code": "01PHYSICS1",
+        "question": "Which component stores energy in a magnetic field?",
+        "answer": ["Inductor", "Capacitor", "Resistor", "Transformer"]
+    },
+    {
+        "code": "01PHYSICS1",
+        "question": "Electric charge is measured in:",
+        "answer": ["Coulomb", "Ampere", "Ohm", "Joule"]
+    },
+    {
+        "code": "11PHYSICS1",
+        "question": "A wire carries 2 A current. How many electrons pass per second (e = 1.6x10⁻¹⁹ C)? If answer is x x 10^19, find x.",
+        "answer": 1
+    },
+    {
+        "code": "11PHYSICS1",
+        "question": "What is the magnetic field at the center of a circular coil of radius 0.1 m carrying 10 A current (μ₀ = 4π×10⁻⁷)? If B = x × 10⁻⁵ T, find x.",
+        "answer": 2 
+    },
+    {
+        "code": "11PHYSICS1",
+        "question": "A 5 Ω resistor has 2 A current. What is the voltage across it?",
+        "answer": 10 
+    },
+    {
+        "code": "11PHYSICS1",
+        "question": "What is the total resistance of three 2 Ω resistors in series?",
+        "answer": 6 
+    },
+    {
+        "code": "11PHYSICS1",
+        "question": "If 1 μC charge moves through 2 V potential, what is the energy in μJ?",
+        "answer": 2 
+    },
+    {
+        "code": "02PHYSICS1",
+        "question": "In a moving coil galvanometer, deflection is proportional to:",
+        "answer": ["Current", "Voltage", "Resistance", "Power"]
+    },
+    {
+        "code": "02PHYSICS1",
+        "question": "What is the induced emf in a coil of 50 turns with flux changing at 0.1 Wb/s?",
+        "answer": ["5 V", "10 V", "0.5 V", "2.5 V"]
+    },
+    {
+        "code": "02PHYSICS1",
+        "question": "The unit of magnetic permeability is:",
+        "answer": ["H/m", "T·m", "Wb", "N/A"]
+    },
+    {
+        "code": "02PHYSICS1",
+        "question": "A transformer works on:",
+        "answer": ["AC only", "DC only", "Both AC and DC", "None"]
+    },
+    {
+        "code": "02PHYSICS1",
+        "question": "Lenz's law is based on the principle of:",
+        "answer": ["Conservation of energy", "Conservation of charge", "Newton's laws", "Ampere's law"]
+    },
+    {
+        "code": "02PHYSICS1",
+        "question": "A long straight conductor creates magnetic field lines in shape of:",
+        "answer": ["Concentric circles", "Spirals", "Ellipses", "Straight lines"]
+    },
+    {
+        "code": "02PHYSICS1",
+        "question": "In a solenoid, increasing number of turns per unit length:",
+        "answer": ["Increases magnetic field", "Decreases field", "No effect", "Reverses field"]
+    },
+    {
+        "code": "02PHYSICS1",
+        "question": "In mutual induction, change of current in primary causes:",
+        "answer": ["EMF in secondary", "No effect", "Current in primary only", "Heating"]
+    },
+    {
+        "code": "02PHYSICS1",
+        "question": "Current flows in a conductor placed in magnetic field. It experiences:",
+        "answer": ["Force", "No force", "Temperature rise", "Potential drop"]
+    },
+    {
+        "code": "02PHYSICS1",
+        "question": "The core used in a transformer is usually made of:",
+        "answer": ["Soft iron", "Steel", "Aluminium", "Copper"]
+    },
+    {
+        "code": "12PHYSICS1",
+        "question": "A current of 3 A flows through a 4-turn coil. What is the total ampere-turns?",
+        "answer": 12 
+    },
+    {
+        "code": "12PHYSICS1",
+        "question": "A solenoid 0.5 m long has 500 turns. Find turns per meter.",
+        "answer": 1000
+    },
+    {
+        "code": "12PHYSICS1",
+        "question": "An inductor has L = 0.2 H. If current changes at 10 A/s, what is emf in V?",
+        "answer": 2 
+    },
+    {
+        "code": "12PHYSICS1",
+        "question": "If magnetic flux changes by 0.02 Wb in 0.01 s, find induced emf.",
+        "answer": 2
+    },
+    {
+        "code": "12PHYSICS1",
+        "question": "Power loss in a 10 Ω resistor carrying 2 A current is:",
+        "answer": 40 
+    },
+    {
+        "code": "03PHYSICS1",
+        "question": "Which formula gives force on a charge moving in magnetic field?",
+        "answer": ["F = qvB sinθ", "F = qB/v", "F = qE", "F = mv²/r"]
+    },
+    {
+        "code": "03PHYSICS1",
+        "question": "In an RL circuit, time constant is given by:",
+        "answer": ["L/R", "R/L", "1/LR", "L×R"]
+    },
+    {
+        "code": "03PHYSICS1",
+        "question": "Skin effect is prominent in:",
+        "answer": ["High-frequency AC", "Low-frequency AC", "DC", "Static fields"]
+    },
+    {
+        "code": "03PHYSICS1",
+        "question": "Self-inductance of a long solenoid is proportional to:",
+        "answer": ["Square of number of turns", "Length", "Current", "Area only"]
+    },
+    {
+        "code": "03PHYSICS1",
+        "question": "What is the SI unit of inductance?",
+        "answer": ["Henry", "Weber", "Tesla", "Volt-second"]
+    },
+    {
+        "code": "03PHYSICS1",
+        "question": "Which of the following is dimensionally equivalent to magnetic flux?",
+        "answer": ["Volt-second", "Weber/m", "Tesla", "Ampere-meter"]
+    },
+    {
+        "code": "03PHYSICS1",
+        "question": "Magnetic field inside a toroid is:",
+        "answer": ["Along the circular path", "Zero", "Radially outward", "Uniformly upward"]
+    },
+    {
+        "code": "03PHYSICS1",
+        "question": "Displacement current exists in:",
+        "answer": ["Changing electric field", "Static field", "DC", "Neutral wire"]
+    },
+    {
+        "code": "03PHYSICS1",
+        "question": "The eddy currents are reduced by:",
+        "answer": ["Laminating core", "Using copper wire", "Using iron core", "Increasing voltage"]
+    },
+    {
+        "code": "03PHYSICS1",
+        "question": "A cyclotron is used to accelerate:",
+        "answer": ["Charged particles", "Neutrons", "Photons", "Uncharged atoms"]
+    },
+    {
+        "code": "13PHYSICS1",
+        "question": "If 0.05 Wb flux links 10 turns, total flux linkage is x/10. What is x?",
+        "answer": 5
+    },
+    {
+        "code": "13PHYSICS1",
+        "question": "A 1 H inductor has 1 A current. What is stored energy (in J)?",
+        "answer": 0
+    },
+    {
+        "code": "13PHYSICS1",
+        "question": "A coil with 20 Ω resistance draws 2 A. Find power dissipation.",
+        "answer": 80
+    },
+    {
+        "code": "13PHYSICS1",
+        "question": "A magnetic field of 2 T acts on 2 C charge moving at 5 m/s perpendicularly. What is the force?",
+        "answer": 20
+    },
+    {
+        "code": "13PHYSICS1",
+        "question": "If an inductor of 0.5 H has energy of 2 J, what is the current in A? (use U = ½LI²)",
+        "answer": 2
+    },
+    {
+        "code": "04PHYSICS1",
+        "question": "A charged particle enters a region with both electric field E and magnetic field B such that its velocity remains unchanged. Which relation must hold?",
+        "answer": ["E = vB", "E = B/v", "v = EB", "E = v²/B"]
+    },
+    {
+        "code": "04PHYSICS1",
+        "question": "A circular loop of radius R carries a steady current I. What is the magnetic field at its center?",
+        "answer": ["(μ₀I)/(2R)", "(μ₀I)/(R²)", "(μ₀IR²)/(2)", "(μ₀I)/(4πR)"]
+    },
+    {
+        "code": "04PHYSICS1",
+        "question": "An EM wave travels in +x direction. If E field oscillates in y-direction, which direction does B field oscillate?",
+        "answer": ["z-direction", "x-direction", "y-direction", "-z-direction"]
+    },
+    {
+        "code": "14PHYSICS1",
+        "question": "A square loop of side 0.1 m is in a magnetic field of 0.5 T perpendicular to its plane. If the field is removed in 0.01 s, what is average induced emf (in V)? If emf = x, find x.",
+        "answer": 0
+    },
+    {
+        "code": "14PHYSICS1",
+        "question": "In a cyclotron, a particle of charge 1.6x10⁻¹⁹ C is accelerated across a gap of 1000 V each time. After 10 revolutions, total energy is x x 10⁻¹⁶ J. Find 10x.",
+        "answer": 16
+    }
+]

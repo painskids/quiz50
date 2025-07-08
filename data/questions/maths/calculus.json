@@ -1,0 +1,417 @@
+[
+    {
+        "code": "01MATHS2",
+        "question": "The derivative of x^2 is:",
+        "answer": [
+            "2x",
+            "x",
+            "x^3",
+            "2"
+        ]
+    },
+    {
+        "code": "01MATHS2",
+        "question": "The integral of 1/x dx is:",
+        "answer": [
+            "ln|x| + C",
+            "x",
+            "1/x",
+            "e^x"
+        ]
+    },
+    {
+        "code": "01MATHS2",
+        "question": "The derivative of a constant is:",
+        "answer": [
+            "0",
+            "1",
+            "The constant",
+            "Undefined"
+        ]
+    },
+    {
+        "code": "01MATHS2",
+        "question": "The integral of x dx is:",
+        "answer": [
+            "x^2/2 + C",
+            "x^2 + C",
+            "2x + C",
+            "ln|x| + C"
+        ]
+    },
+    {
+        "code": "01MATHS2",
+        "question": "What is d/dx of sin x?",
+        "answer": [
+            "cos x",
+            "sin x",
+            "\u2212cos x",
+            "\u2212sin x"
+        ]
+    },
+    {
+        "code": "01MATHS2",
+        "question": "What is \u222bcos x dx?",
+        "answer": [
+            "sin x + C",
+            "\u2212sin x + C",
+            "cos x + C",
+            "\u2212cos x + C"
+        ]
+    },
+    {
+        "code": "01MATHS2",
+        "question": "What is the slope of y = x^2 at x = 1?",
+        "answer": [
+            "2",
+            "1",
+            "0",
+            "3"
+        ]
+    },
+    {
+        "code": "01MATHS2",
+        "question": "If y = x^3, dy/dx = ?",
+        "answer": [
+            "3x^2",
+            "x^2",
+            "3x",
+            "x^3"
+        ]
+    },
+    {
+        "code": "01MATHS2",
+        "question": "What is \u222b0 dx?",
+        "answer": [
+            "C",
+            "0",
+            "x + C",
+            "Undefined"
+        ]
+    },
+    {
+        "code": "01MATHS2",
+        "question": "What is d/dx of e^x?",
+        "answer": [
+            "e^x",
+            "x^e",
+            "1",
+            "ln x"
+        ]
+    },
+    {
+        "code": "11MATHS2",
+        "question": "If f(x) = x^2, what is f'(2)?",
+        "answer": 4
+    },
+    {
+        "code": "11MATHS2",
+        "question": "d/dx of x^3 at x = 2 is:",
+        "answer": 12
+    },
+    {
+        "code": "11MATHS2",
+        "question": "\u222bx dx from 0 to 2 is:",
+        "answer": 2
+    },
+    {
+        "code": "11MATHS2",
+        "question": "If f(x) = 3x, find f'(1)",
+        "answer": 3
+    },
+    {
+        "code": "11MATHS2",
+        "question": "d/dx of x^2 + 1 at x = 1 is:",
+        "answer": 2
+    },
+    {
+        "code": "02MATHS2",
+        "question": "What is d/dx of ln x?",
+        "answer": [
+            "1/x",
+            "x",
+            "ln x",
+            "e^x"
+        ]
+    },
+    {
+        "code": "02MATHS2",
+        "question": "What is \u222be^x dx?",
+        "answer": [
+            "e^x + C",
+            "ln x + C",
+            "x + C",
+            "x e^x"
+        ]
+    },
+    {
+        "code": "02MATHS2",
+        "question": "If y = sin x, then d^2y/dx^2 = ?",
+        "answer": [
+            "\u2212sin x",
+            "cos x",
+            "\u2212cos x",
+            "sin x"
+        ]
+    },
+    {
+        "code": "02MATHS2",
+        "question": "What is the derivative of cos x?",
+        "answer": [
+            "\u2212sin x",
+            "sin x",
+            "cos x",
+            "\u2212cos x"
+        ]
+    },
+    {
+        "code": "02MATHS2",
+        "question": "If f(x) = x^2 + 3x, then f'(x) = ?",
+        "answer": [
+            "2x + 3",
+            "x^2",
+            "3x",
+            "2x"
+        ]
+    },
+    {
+        "code": "02MATHS2",
+        "question": "What is \u222b2x dx?",
+        "answer": [
+            "x^2 + C",
+            "2x^2 + C",
+            "x + C",
+            "2x + C"
+        ]
+    },
+    {
+        "code": "02MATHS2",
+        "question": "Find the area under f(x) = x from x = 0 to x = 3",
+        "answer": [
+            "9/2",
+            "3",
+            "6",
+            "9"
+        ]
+    },
+    {
+        "code": "02MATHS2",
+        "question": "What is d/dx of tan x?",
+        "answer": [
+            "sec\u00b2x",
+            "sec x tan x",
+            "cos\u00b2x",
+            "1 + tan x"
+        ]
+    },
+    {
+        "code": "02MATHS2",
+        "question": "d/dx (x ln x) is:",
+        "answer": [
+            "1 + ln x",
+            "ln x",
+            "1/x",
+            "x/x"
+        ]
+    },
+    {
+        "code": "02MATHS2",
+        "question": "What is the antiderivative of 2x?",
+        "answer": [
+            "x^2 + C",
+            "2x + C",
+            "x^2",
+            "4x + C"
+        ]
+    },
+    {
+        "code": "12MATHS2",
+        "question": "Find d/dx of x^3 \u2212 3x at x = 1",
+        "answer": 0
+    },
+    {
+        "code": "12MATHS2",
+        "question": "\u222b2x dx from 0 to 2 is:",
+        "answer": 4
+    },
+    {
+        "code": "12MATHS2",
+        "question": "If y = e^x, then dy/dx at x = 0 is:",
+        "answer": 1
+    },
+    {
+        "code": "12MATHS2",
+        "question": "Find the slope of y = x^2 \u2212 4 at x = 2",
+        "answer": 4
+    },
+    {
+        "code": "12MATHS2",
+        "question": "If f(x) = ln x, f'(1) = ?",
+        "answer": 1
+    },
+    {
+        "code": "03MATHS2",
+        "question": "d/dx of x^x is:",
+        "answer": [
+            "x^x(1 + ln x)",
+            "x^x",
+            "x^(x\u22121)",
+            "ln x"
+        ]
+    },
+    {
+        "code": "03MATHS2",
+        "question": "\u222bx e^x dx is:",
+        "answer": [
+            "(x \u2212 1)e^x + C",
+            "x e^x \u2212 e^x + C",
+            "x^2 e^x + C",
+            "e^x + C"
+        ]
+    },
+    {
+        "code": "03MATHS2",
+        "question": "What is d/dx of ln(x^2)?",
+        "answer": [
+            "2/x",
+            "1/x",
+            "ln x",
+            "x^2"
+        ]
+    },
+    {
+        "code": "03MATHS2",
+        "question": "If y = x^3 + 3x^2, d^2y/dx^2 = ?",
+        "answer": [
+            "6x + 6",
+            "3x^2",
+            "6x",
+            "9x^2"
+        ]
+    },
+    {
+        "code": "03MATHS2",
+        "question": "\u222bsec x tan x dx equals:",
+        "answer": [
+            "sec x + C",
+            "tan x + C",
+            "ln|sec x| + C",
+            "cos x + C"
+        ]
+    },
+    {
+        "code": "03MATHS2",
+        "question": "d/dx (ln(sin x)) =",
+        "answer": [
+            "cot x",
+            "1/sin x",
+            "tan x",
+            "cos x"
+        ]
+    },
+    {
+        "code": "03MATHS2",
+        "question": "d/dx (sin x cos x) =",
+        "answer": [
+            "cos\u00b2x \u2212 sin\u00b2x",
+            "\u2212sin x",
+            "cos x",
+            "2 sin x"
+        ]
+    },
+    {
+        "code": "03MATHS2",
+        "question": "\u222b1/(1 + x^2) dx =",
+        "answer": [
+            "tan\u207b\u00b9x + C",
+            "ln(1 + x^2) + C",
+            "x + C",
+            "e^x + C"
+        ]
+    },
+    {
+        "code": "03MATHS2",
+        "question": "If y = ln(x^2 + 1), dy/dx = ?",
+        "answer": [
+            "2x/(x^2 + 1)",
+            "1/x",
+            "x^2",
+            "2x"
+        ]
+    },
+    {
+        "code": "03MATHS2",
+        "question": "d/dx of e^(2x) =",
+        "answer": [
+            "2e^(2x)",
+            "e^x",
+            "x e^x",
+            "e^(2x) + C"
+        ]
+    },
+    {
+        "code": "13MATHS2",
+        "question": "If f(x) = x^3, then f''(2) = ?",
+        "answer": 12
+    },
+    {
+        "code": "13MATHS2",
+        "question": "\u222bx dx from x = 1 to x = 3",
+        "answer": 4
+    },
+    {
+        "code": "13MATHS2",
+        "question": "Find d/dx of ln x at x = e",
+        "answer": 1
+    },
+    {
+        "code": "13MATHS2",
+        "question": "If y = e^(3x), dy/dx at x = 0 is?",
+        "answer": 3
+    },
+    {
+        "code": "13MATHS2",
+        "question": "d\u00b2y/dx\u00b2 of y = x^3 at x = 2",
+        "answer": 12
+    },
+    {
+        "code": "04MATHS2",
+        "question": "If f(x) = ln(x^2 + 1), then f'(x) =",
+        "answer": [
+            "2x / (x^2 + 1)",
+            "1 / x",
+            "x / (x^2 + 1)",
+            "x^2 + 1"
+        ]
+    },
+    {
+        "code": "04MATHS2",
+        "question": "What is \u222b(ln x) dx?",
+        "answer": [
+            "x ln x \u2212 x + C",
+            "ln x + C",
+            "x ln x + x + C",
+            "1/x + C"
+        ]
+    },
+    {
+        "code": "04MATHS2",
+        "question": "d/dx of e^(x^2) is:",
+        "answer": [
+            "2x e^(x^2)",
+            "x e^x",
+            "e^x",
+            "2 e^x"
+        ]
+    },
+    {
+        "code": "14MATHS2",
+        "question": "d/dx of x^x at x = 1 is:",
+        "answer": 1
+    },
+    {
+        "code": "14MATHS2",
+        "question": "\u222b0 to 1 of x dx =",
+        "answer": 1
+    }
+]

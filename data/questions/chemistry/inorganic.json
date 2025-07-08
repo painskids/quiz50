@@ -1,0 +1,417 @@
+[
+    {
+        "code": "01CHEMISTRY2",
+        "question": "Atomic number of sodium is:",
+        "answer": [
+            "11",
+            "12",
+            "10",
+            "14"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY2",
+        "question": "Which of the following is an alkali metal?",
+        "answer": [
+            "Potassium",
+            "Calcium",
+            "Magnesium",
+            "Aluminium"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY2",
+        "question": "The formula of quick lime is:",
+        "answer": [
+            "CaO",
+            "Ca(OH)2",
+            "CaCO3",
+            "CaCl2"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY2",
+        "question": "Which element is a halogen?",
+        "answer": [
+            "Chlorine",
+            "Oxygen",
+            "Sulfur",
+            "Nitrogen"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY2",
+        "question": "Which gas is released when metal reacts with acid?",
+        "answer": [
+            "Hydrogen",
+            "Oxygen",
+            "Nitrogen",
+            "Chlorine"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY2",
+        "question": "Which is a noble gas?",
+        "answer": [
+            "Neon",
+            "Oxygen",
+            "Fluorine",
+            "Nitrogen"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY2",
+        "question": "Which of the following is amphoteric?",
+        "answer": [
+            "Aluminium oxide",
+            "Sodium oxide",
+            "Calcium oxide",
+            "Magnesium oxide"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY2",
+        "question": "Colour of CuSO4\u00b75H2O is:",
+        "answer": [
+            "Blue",
+            "Green",
+            "White",
+            "Red"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY2",
+        "question": "NaCl is formed by which type of bond?",
+        "answer": [
+            "Ionic",
+            "Covalent",
+            "Hydrogen",
+            "Metallic"
+        ]
+    },
+    {
+        "code": "01CHEMISTRY2",
+        "question": "Which is the lightest element?",
+        "answer": [
+            "Hydrogen",
+            "Helium",
+            "Lithium",
+            "Oxygen"
+        ]
+    },
+    {
+        "code": "11CHEMISTRY2",
+        "question": "Atomic number of aluminium is:",
+        "answer": 13
+    },
+    {
+        "code": "11CHEMISTRY2",
+        "question": "Number of electrons in Mg2+ ion:",
+        "answer": 10
+    },
+    {
+        "code": "11CHEMISTRY2",
+        "question": "How many protons in sulfur atom?",
+        "answer": 16
+    },
+    {
+        "code": "11CHEMISTRY2",
+        "question": "Oxidation number of Na in Na2O:",
+        "answer": 1
+    },
+    {
+        "code": "11CHEMISTRY2",
+        "question": "Group number of fluorine in periodic table:",
+        "answer": 17
+    },
+    {
+        "code": "02CHEMISTRY2",
+        "question": "Which oxide is neutral?",
+        "answer": [
+            "CO",
+            "Na2O",
+            "SO2",
+            "CaO"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY2",
+        "question": "Zinc reacts with HCl to form:",
+        "answer": [
+            "ZnCl2 + H2",
+            "ZnCl + H2",
+            "ZnCl3 + H2",
+            "ZnH + Cl2"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY2",
+        "question": "Which of the following has highest electronegativity?",
+        "answer": [
+            "F",
+            "Cl",
+            "Br",
+            "I"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY2",
+        "question": "Which of the following is a d-block element?",
+        "answer": [
+            "Iron",
+            "Boron",
+            "Sodium",
+            "Chlorine"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY2",
+        "question": "Which of the following is not a metalloid?",
+        "answer": [
+            "Calcium",
+            "Silicon",
+            "Arsenic",
+            "Boron"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY2",
+        "question": "Coordination number of Fe in [Fe(CN)6]\u00b3\u207b is:",
+        "answer": [
+            "6",
+            "4",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY2",
+        "question": "Which compound is used in borax bead test?",
+        "answer": [
+            "Na2B4O7",
+            "NaCl",
+            "NaOH",
+            "NaHCO3"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY2",
+        "question": "The oxidation state of Mn in KMnO4 is:",
+        "answer": [
+            "+7",
+            "+2",
+            "+4",
+            "+6"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY2",
+        "question": "Which acid is present in acid rain?",
+        "answer": [
+            "H2SO4",
+            "HNO3",
+            "HCl",
+            "CH3COOH"
+        ]
+    },
+    {
+        "code": "02CHEMISTRY2",
+        "question": "Which element has the largest atomic radius?",
+        "answer": [
+            "Cesium",
+            "Lithium",
+            "Sodium",
+            "Potassium"
+        ]
+    },
+    {
+        "code": "12CHEMISTRY2",
+        "question": "Number of d-electrons in Fe\u00b2\u207a (Z=26):",
+        "answer": 6
+    },
+    {
+        "code": "12CHEMISTRY2",
+        "question": "Atomic number of the first noble gas with 8 electrons in outer shell:",
+        "answer": 10
+    },
+    {
+        "code": "12CHEMISTRY2",
+        "question": "Total number of groups in modern periodic table:",
+        "answer": 18
+    },
+    {
+        "code": "12CHEMISTRY2",
+        "question": "Total electrons in Ca\u00b2\u207a ion:",
+        "answer": 18
+    },
+    {
+        "code": "12CHEMISTRY2",
+        "question": "Number of unpaired electrons in nitrogen atom:",
+        "answer": 3
+    },
+    {
+        "code": "03CHEMISTRY2",
+        "question": "In which oxidation state does chlorine show +7 oxidation number?",
+        "answer": [
+            "In HClO4",
+            "In HCl",
+            "In Cl2",
+            "In ClO2"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY2",
+        "question": "Which gas is used in the Haber process?",
+        "answer": [
+            "Nitrogen",
+            "Oxygen",
+            "Hydrogen sulfide",
+            "Methane"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY2",
+        "question": "Which of the following has sp\u00b3d\u00b2 hybridisation?",
+        "answer": [
+            "SF6",
+            "NH3",
+            "CH4",
+            "BF3"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY2",
+        "question": "Which transition metal shows variable oxidation states?",
+        "answer": [
+            "Iron",
+            "Magnesium",
+            "Calcium",
+            "Aluminium"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY2",
+        "question": "Which ion gives blue color in flame test?",
+        "answer": [
+            "Copper",
+            "Sodium",
+            "Calcium",
+            "Potassium"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY2",
+        "question": "Formula of chromate ion is:",
+        "answer": [
+            "CrO4\u00b2\u207b",
+            "Cr\u2082O\u2087\u00b2\u207b",
+            "CrO\u2083",
+            "CrO\u2082\u207b"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY2",
+        "question": "Which pair is not isoelectronic?",
+        "answer": [
+            "O\u00b2\u207b and F",
+            "Na\u207a and Ne",
+            "Cl\u207b and Ar",
+            "Mg\u00b2\u207a and Ne"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY2",
+        "question": "Which element forms a coloured ion?",
+        "answer": [
+            "Cu",
+            "Na",
+            "Mg",
+            "Al"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY2",
+        "question": "Which element does not exist as diatomic?",
+        "answer": [
+            "Neon",
+            "Oxygen",
+            "Hydrogen",
+            "Chlorine"
+        ]
+    },
+    {
+        "code": "03CHEMISTRY2",
+        "question": "Which compound has both ionic and covalent bonds?",
+        "answer": [
+            "NaOH",
+            "H2O",
+            "NH3",
+            "CH4"
+        ]
+    },
+    {
+        "code": "13CHEMISTRY2",
+        "question": "Oxidation number of chromium in Cr2O7\u00b2\u207b is:",
+        "answer": 6
+    },
+    {
+        "code": "13CHEMISTRY2",
+        "question": "How many orbitals are there in d-subshell?",
+        "answer": 5
+    },
+    {
+        "code": "13CHEMISTRY2",
+        "question": "How many electrons are there in Cl\u207b ion?",
+        "answer": 18
+    },
+    {
+        "code": "13CHEMISTRY2",
+        "question": "How many lone pairs in NH3 molecule?",
+        "answer": 1
+    },
+    {
+        "code": "13CHEMISTRY2",
+        "question": "What is the period number of oxygen in periodic table?",
+        "answer": 2
+    },
+    {
+        "code": "04CHEMISTRY2",
+        "question": "The geometry of [Ni(CN)4]\u00b2\u207b is:",
+        "answer": [
+            "Square planar",
+            "Tetrahedral",
+            "Octahedral",
+            "Trigonal bipyramidal"
+        ]
+    },
+    {
+        "code": "04CHEMISTRY2",
+        "question": "Which is not a ligand?",
+        "answer": [
+            "CO2",
+            "CN\u207b",
+            "NH3",
+            "H2O"
+        ]
+    },
+    {
+        "code": "04CHEMISTRY2",
+        "question": "Which has highest crystal field splitting energy?",
+        "answer": [
+            "[CoF6]\u00b3\u207b",
+            "[Co(CN)6]\u00b3\u207b",
+            "[Co(H2O)6]\u00b3\u207a",
+            "[CoCl6]\u00b3\u207b"
+        ]
+    },
+    {
+        "code": "14CHEMISTRY2",
+        "question": "How many isomers possible for [Co(NH3)4Cl2]+?",
+        "answer": 2
+    },
+    {
+        "code": "14CHEMISTRY2",
+        "question": "Total number of valence electrons in Fe (Z=26):",
+        "answer": 8
+    }
+]

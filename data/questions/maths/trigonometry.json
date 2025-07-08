@@ -1,0 +1,417 @@
+[
+    {
+        "code": "01MATHS1",
+        "question": "What is sin(30\u00b0)?",
+        "answer": [
+            "1/2",
+            "\u221a3/2",
+            "1",
+            "0"
+        ]
+    },
+    {
+        "code": "01MATHS1",
+        "question": "What is cos(0\u00b0)?",
+        "answer": [
+            "1",
+            "0",
+            "1/2",
+            "\u221a3/2"
+        ]
+    },
+    {
+        "code": "01MATHS1",
+        "question": "What is tan(45\u00b0)?",
+        "answer": [
+            "1",
+            "0",
+            "\u221a3",
+            "1/\u221a3"
+        ]
+    },
+    {
+        "code": "01MATHS1",
+        "question": "Which is equal to 1?",
+        "answer": [
+            "sin\u00b2x + cos\u00b2x",
+            "tan\u00b2x + 1",
+            "cot\u00b2x \u2212 1",
+            "sec\u00b2x \u2212 tan\u00b2x"
+        ]
+    },
+    {
+        "code": "01MATHS1",
+        "question": "What is the value of sin(90\u00b0)?",
+        "answer": [
+            "1",
+            "0",
+            "1/2",
+            "\u221a2/2"
+        ]
+    },
+    {
+        "code": "01MATHS1",
+        "question": "cos(90\u00b0) equals:",
+        "answer": [
+            "0",
+            "1",
+            "1/2",
+            "\u221a3/2"
+        ]
+    },
+    {
+        "code": "01MATHS1",
+        "question": "tan(0\u00b0) is:",
+        "answer": [
+            "0",
+            "1",
+            "Undefined",
+            "\u221e"
+        ]
+    },
+    {
+        "code": "01MATHS1",
+        "question": "cot(45\u00b0) equals:",
+        "answer": [
+            "1",
+            "0",
+            "\u221a3",
+            "1/\u221a3"
+        ]
+    },
+    {
+        "code": "01MATHS1",
+        "question": "Which identity is true?",
+        "answer": [
+            "sec\u00b2x \u2212 tan\u00b2x = 1",
+            "cot\u00b2x + 1 = sec\u00b2x",
+            "sin x = cos x",
+            "sin x = 1/cos x"
+        ]
+    },
+    {
+        "code": "01MATHS1",
+        "question": "sin(0\u00b0) is:",
+        "answer": [
+            "0",
+            "1",
+            "1/2",
+            "Undefined"
+        ]
+    },
+    {
+        "code": "11MATHS1",
+        "question": "Find sin(30\u00b0) \u00d7 2",
+        "answer": 1
+    },
+    {
+        "code": "11MATHS1",
+        "question": "If cos(x) = 1, x = __ degrees",
+        "answer": 0
+    },
+    {
+        "code": "11MATHS1",
+        "question": "tan(45\u00b0) + cot(45\u00b0) = ?",
+        "answer": 2
+    },
+    {
+        "code": "11MATHS1",
+        "question": "sec(60\u00b0) = 2 / __",
+        "answer": 1
+    },
+    {
+        "code": "11MATHS1",
+        "question": "If sin(x) = 1, x = __ degrees",
+        "answer": 90
+    },
+    {
+        "code": "02MATHS1",
+        "question": "If sin A = 3/5, then cos A = ?",
+        "answer": [
+            "4/5",
+            "3/4",
+            "5/4",
+            "1/2"
+        ]
+    },
+    {
+        "code": "02MATHS1",
+        "question": "tan A = sin A / __ ?",
+        "answer": [
+            "cos A",
+            "sec A",
+            "cot A",
+            "tan A"
+        ]
+    },
+    {
+        "code": "02MATHS1",
+        "question": "Which identity represents cot\u00b2x + 1?",
+        "answer": [
+            "csc\u00b2x",
+            "sec\u00b2x",
+            "tan\u00b2x",
+            "sin\u00b2x"
+        ]
+    },
+    {
+        "code": "02MATHS1",
+        "question": "sec x = 1 / ?",
+        "answer": [
+            "cos x",
+            "sin x",
+            "tan x",
+            "cot x"
+        ]
+    },
+    {
+        "code": "02MATHS1",
+        "question": "In a right triangle, sin \u03b8 = opposite / ?",
+        "answer": [
+            "hypotenuse",
+            "adjacent",
+            "base",
+            "perpendicular"
+        ]
+    },
+    {
+        "code": "02MATHS1",
+        "question": "If tan x = \u221a3, x = ?",
+        "answer": [
+            "60\u00b0",
+            "30\u00b0",
+            "45\u00b0",
+            "0\u00b0"
+        ]
+    },
+    {
+        "code": "02MATHS1",
+        "question": "Which of the following is undefined?",
+        "answer": [
+            "tan 90\u00b0",
+            "sin 0\u00b0",
+            "cos 90\u00b0",
+            "cot 45\u00b0"
+        ]
+    },
+    {
+        "code": "02MATHS1",
+        "question": "The value of cot(0\u00b0) is:",
+        "answer": [
+            "Undefined",
+            "1",
+            "0",
+            "\u221e"
+        ]
+    },
+    {
+        "code": "02MATHS1",
+        "question": "cos(60\u00b0) equals:",
+        "answer": [
+            "1/2",
+            "\u221a3/2",
+            "0",
+            "1"
+        ]
+    },
+    {
+        "code": "02MATHS1",
+        "question": "sin(45\u00b0) is:",
+        "answer": [
+            "1/\u221a2",
+            "1",
+            "1/2",
+            "\u221a3/2"
+        ]
+    },
+    {
+        "code": "12MATHS1",
+        "question": "If tan(x) = 1, x = __ degrees",
+        "answer": 45
+    },
+    {
+        "code": "12MATHS1",
+        "question": "csc(30\u00b0) = 2, then sin(30\u00b0) \u00d7 2 = ?",
+        "answer": 1
+    },
+    {
+        "code": "12MATHS1",
+        "question": "cos(60\u00b0) \u00d7 2 = ?",
+        "answer": 1
+    },
+    {
+        "code": "12MATHS1",
+        "question": "sin\u00b2(60\u00b0) + cos\u00b2(60\u00b0) = ?",
+        "answer": 1
+    },
+    {
+        "code": "12MATHS1",
+        "question": "Number of trigonometric identities: sin\u00b2x + cos\u00b2x = ?, sec\u00b2x \u2212 tan\u00b2x = ?, etc.",
+        "answer": 3
+    },
+    {
+        "code": "03MATHS1",
+        "question": "If sin A = 5/13 and A is acute, then cos A =",
+        "answer": [
+            "12/13",
+            "5/12",
+            "13/12",
+            "1/2"
+        ]
+    },
+    {
+        "code": "03MATHS1",
+        "question": "sin 2A equals:",
+        "answer": [
+            "2 sin A cos A",
+            "sin\u00b2A + cos\u00b2A",
+            "2 tan A",
+            "tan 2A"
+        ]
+    },
+    {
+        "code": "03MATHS1",
+        "question": "cos 2A equals:",
+        "answer": [
+            "cos\u00b2A \u2212 sin\u00b2A",
+            "2 cos A",
+            "1 \u2212 2 sin A",
+            "2 sin A"
+        ]
+    },
+    {
+        "code": "03MATHS1",
+        "question": "tan A \u00d7 cot A equals:",
+        "answer": [
+            "1",
+            "0",
+            "tan\u00b2 A",
+            "sec A"
+        ]
+    },
+    {
+        "code": "03MATHS1",
+        "question": "sin(180\u00b0 \u2212 x) equals:",
+        "answer": [
+            "sin x",
+            "\u2212sin x",
+            "cos x",
+            "\u2212cos x"
+        ]
+    },
+    {
+        "code": "03MATHS1",
+        "question": "cos(180\u00b0 \u2212 x) =",
+        "answer": [
+            "\u2212cos x",
+            "cos x",
+            "sin x",
+            "\u2212sin x"
+        ]
+    },
+    {
+        "code": "03MATHS1",
+        "question": "tan(90\u00b0 \u2212 x) =",
+        "answer": [
+            "cot x",
+            "\u2212tan x",
+            "tan x",
+            "\u2212cot x"
+        ]
+    },
+    {
+        "code": "03MATHS1",
+        "question": "csc(90\u00b0 \u2212 x) =",
+        "answer": [
+            "sec x",
+            "cos x",
+            "sin x",
+            "cot x"
+        ]
+    },
+    {
+        "code": "03MATHS1",
+        "question": "What is the value of sin(x) if cos(x) = 4/5 and x is acute?",
+        "answer": [
+            "3/5",
+            "4/5",
+            "1/5",
+            "5/3"
+        ]
+    },
+    {
+        "code": "03MATHS1",
+        "question": "If sin\u00b2A = 1/4, then cos\u00b2A =",
+        "answer": [
+            "3/4",
+            "1/4",
+            "1/2",
+            "0"
+        ]
+    },
+    {
+        "code": "13MATHS1",
+        "question": "If sin A = 3/5, then cos A \u00d7 5 = ?",
+        "answer": 4
+    },
+    {
+        "code": "13MATHS1",
+        "question": "If cos A = 12/13, sin A \u00d7 13 = ?",
+        "answer": 5
+    },
+    {
+        "code": "13MATHS1",
+        "question": "cot(45\u00b0) + tan(45\u00b0) = ?",
+        "answer": 2
+    },
+    {
+        "code": "13MATHS1",
+        "question": "If tan x = 1, x in degrees is?",
+        "answer": 45
+    },
+    {
+        "code": "13MATHS1",
+        "question": "sin\u00b2x + cos\u00b2x = ?",
+        "answer": 1
+    },
+    {
+        "code": "04MATHS1",
+        "question": "If tan A = 2, then sin 2A =",
+        "answer": [
+            "4/5",
+            "2/3",
+            "3/4",
+            "1"
+        ]
+    },
+    {
+        "code": "04MATHS1",
+        "question": "If sin A = 1/2, then sin 3A =",
+        "answer": [
+            "1",
+            "0",
+            "1/2",
+            "\u221a3/2"
+        ]
+    },
+    {
+        "code": "04MATHS1",
+        "question": "If cos A = 4/5, what is sec A?",
+        "answer": [
+            "5/4",
+            "4/5",
+            "3/5",
+            "5/3"
+        ]
+    },
+    {
+        "code": "14MATHS1",
+        "question": "If sin A = 5/13, find cos A \u00d7 13",
+        "answer": 12
+    },
+    {
+        "code": "14MATHS1",
+        "question": "If tan A = 3/4, find sec\u00b2 A",
+        "answer": 25
+    }
+]

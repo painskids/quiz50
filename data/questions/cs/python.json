@@ -1,0 +1,417 @@
+[
+    {
+        "code": "01CS0",
+        "question": "What is the output of print(2 + 3)?",
+        "answer": [
+            "5",
+            "23",
+            "6",
+            "Error"
+        ]
+    },
+    {
+        "code": "01CS0",
+        "question": "Which keyword is used to define a function in Python?",
+        "answer": [
+            "def",
+            "function",
+            "fun",
+            "define"
+        ]
+    },
+    {
+        "code": "01CS0",
+        "question": "What is the correct file extension for Python files?",
+        "answer": [
+            ".py",
+            ".pt",
+            ".pyt",
+            ".python"
+        ]
+    },
+    {
+        "code": "01CS0",
+        "question": "Which operator is used for exponentiation?",
+        "answer": [
+            "**",
+            "^",
+            "//",
+            "exp()"
+        ]
+    },
+    {
+        "code": "01CS0",
+        "question": "Which data type is used to store True/False?",
+        "answer": [
+            "bool",
+            "int",
+            "str",
+            "float"
+        ]
+    },
+    {
+        "code": "01CS0",
+        "question": "What does len() return?",
+        "answer": [
+            "Length of object",
+            "Size in memory",
+            "String only",
+            "None"
+        ]
+    },
+    {
+        "code": "01CS0",
+        "question": "Which of these is a mutable type?",
+        "answer": [
+            "list",
+            "tuple",
+            "str",
+            "int"
+        ]
+    },
+    {
+        "code": "01CS0",
+        "question": "Which symbol is used for comments in Python?",
+        "answer": [
+            "#",
+            "//",
+            "/* */",
+            "--"
+        ]
+    },
+    {
+        "code": "01CS0",
+        "question": "Which function converts a string to an integer?",
+        "answer": [
+            "int()",
+            "str()",
+            "float()",
+            "char()"
+        ]
+    },
+    {
+        "code": "01CS0",
+        "question": "What is the output of type('Hello')?",
+        "answer": [
+            "<class 'str'>",
+            "<type 'str'>",
+            "str",
+            "<str>"
+        ]
+    },
+    {
+        "code": "11CS0",
+        "question": "What is 3 * 4?",
+        "answer": 12
+    },
+    {
+        "code": "11CS0",
+        "question": "len('Python') = ?",
+        "answer": 6
+    },
+    {
+        "code": "11CS0",
+        "question": "int('7') + 3 = ?",
+        "answer": 10
+    },
+    {
+        "code": "11CS0",
+        "question": "What is 2 ** 3?",
+        "answer": 8
+    },
+    {
+        "code": "11CS0",
+        "question": "len([1, 2, 3]) = ?",
+        "answer": 3
+    },
+    {
+        "code": "02CS0",
+        "question": "Which of the following is not a Python keyword?",
+        "answer": [
+            "eval",
+            "lambda",
+            "return",
+            "pass"
+        ]
+    },
+    {
+        "code": "02CS0",
+        "question": "What is the output of 5 // 2?",
+        "answer": [
+            "2",
+            "2.5",
+            "3",
+            "Error"
+        ]
+    },
+    {
+        "code": "02CS0",
+        "question": "Which of these creates a tuple?",
+        "answer": [
+            "(1, 2)",
+            "[1, 2]",
+            "{1, 2}",
+            "tuple[1, 2]"
+        ]
+    },
+    {
+        "code": "02CS0",
+        "question": "What is the index of 'b' in 'abc'?",
+        "answer": [
+            "1",
+            "0",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "code": "02CS0",
+        "question": "Which method adds item to list?",
+        "answer": [
+            "append()",
+            "add()",
+            "insert()",
+            "push()"
+        ]
+    },
+    {
+        "code": "02CS0",
+        "question": "Which keyword is used for loop?",
+        "answer": [
+            "for",
+            "do",
+            "loop",
+            "repeat"
+        ]
+    },
+    {
+        "code": "02CS0",
+        "question": "What is the output of bool(0)?",
+        "answer": [
+            "False",
+            "True",
+            "0",
+            "None"
+        ]
+    },
+    {
+        "code": "02CS0",
+        "question": "What is the output of '5' + '5'?",
+        "answer": [
+            "55",
+            "10",
+            "Error",
+            "5+5"
+        ]
+    },
+    {
+        "code": "02CS0",
+        "question": "Which of these creates a dictionary?",
+        "answer": [
+            "{'a':1}",
+            "[a:1]",
+            "(a:1)",
+            "dict[a:1]"
+        ]
+    },
+    {
+        "code": "02CS0",
+        "question": "Which operator is used for 'not equal'?",
+        "answer": [
+            "!=",
+            "==",
+            "=>",
+            "<>"
+        ]
+    },
+    {
+        "code": "12CS0",
+        "question": "len({'a':1, 'b':2}) = ?",
+        "answer": 2
+    },
+    {
+        "code": "12CS0",
+        "question": "5 // 2 = ?",
+        "answer": 2
+    },
+    {
+        "code": "12CS0",
+        "question": "int(3.7) = ?",
+        "answer": 3
+    },
+    {
+        "code": "12CS0",
+        "question": "len(set([1, 2, 2, 3])) = ?",
+        "answer": 3
+    },
+    {
+        "code": "12CS0",
+        "question": "len(range(0, 10, 2)) = ?",
+        "answer": 5
+    },
+    {
+        "code": "03CS0",
+        "question": "What is output of list('abc')?",
+        "answer": [
+            "['a', 'b', 'c']",
+            "['abc']",
+            "('a','b','c')",
+            "abc"
+        ]
+    },
+    {
+        "code": "03CS0",
+        "question": "What does dict.get('x') return if x not found?",
+        "answer": [
+            "None",
+            "Error",
+            "0",
+            "''"
+        ]
+    },
+    {
+        "code": "03CS0",
+        "question": "Which function gives ASCII of char?",
+        "answer": [
+            "ord()",
+            "chr()",
+            "ascii()",
+            "char()"
+        ]
+    },
+    {
+        "code": "03CS0",
+        "question": "Which of these is immutable?",
+        "answer": [
+            "tuple",
+            "list",
+            "dict",
+            "set"
+        ]
+    },
+    {
+        "code": "03CS0",
+        "question": "What is the output of list(range(0))?",
+        "answer": [
+            "[]",
+            "[0]",
+            "None",
+            "Error"
+        ]
+    },
+    {
+        "code": "03CS0",
+        "question": "What will len(' ') return?",
+        "answer": [
+            "1",
+            "0",
+            "None",
+            "Error"
+        ]
+    },
+    {
+        "code": "03CS0",
+        "question": "Which operator is overloaded by __add__?",
+        "answer": [
+            "+",
+            "-",
+            "*",
+            "/"
+        ]
+    },
+    {
+        "code": "03CS0",
+        "question": "What does type([]) return?",
+        "answer": [
+            "<class 'list'>",
+            "list",
+            "<type 'list'>",
+            "[]"
+        ]
+    },
+    {
+        "code": "03CS0",
+        "question": "Which method returns list copy?",
+        "answer": [
+            "copy()",
+            "clone()",
+            "duplicate()",
+            "replicate()"
+        ]
+    },
+    {
+        "code": "03CS0",
+        "question": "How many local variables in def f(): a=1; b=2",
+        "answer": [
+            "2",
+            "1",
+            "0",
+            "3"
+        ]
+    },
+    {
+        "code": "13CS0",
+        "question": "len('a b c'.split()) = ?",
+        "answer": 3
+    },
+    {
+        "code": "13CS0",
+        "question": "len(set([1,1,1,1,2])) = ?",
+        "answer": 2
+    },
+    {
+        "code": "13CS0",
+        "question": "int('101', 2) = ?",
+        "answer": 5
+    },
+    {
+        "code": "13CS0",
+        "question": "'abcde'.find('d') = ?",
+        "answer": 3
+    },
+    {
+        "code": "13CS0",
+        "question": "ord('A') = ?",
+        "answer": 65
+    },
+    {
+        "code": "04CS0",
+        "question": "What is output of [i for i in range(3)]?",
+        "answer": [
+            "[0,1,2]",
+            "[1,2,3]",
+            "[0,1,2,3]",
+            "[1,2]"
+        ]
+    },
+    {
+        "code": "04CS0",
+        "question": "What does zip([1,2],[3,4]) return?",
+        "answer": [
+            "[(1,3),(2,4)]",
+            "[1,3,2,4]",
+            "{1:3, 2:4}",
+            "(1,2,3,4)"
+        ]
+    },
+    {
+        "code": "04CS0",
+        "question": "id(x) in Python returns?",
+        "answer": [
+            "Memory address",
+            "Size",
+            "Type",
+            "None"
+        ]
+    },
+    {
+        "code": "14CS0",
+        "question": "len([i for i in range(5) if i%2==0]) = ?",
+        "answer": 3
+    },
+    {
+        "code": "14CS0",
+        "question": "sum(range(4)) = ?",
+        "answer": 6
+    }
+]
